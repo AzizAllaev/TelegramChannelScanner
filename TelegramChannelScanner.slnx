@@ -1,3 +1,7 @@
 <Solution>
+  <Folder Name="/Элементы решения/">
+    <File Path="AppSettings.json" />
+  </Folder>
+  <Project Path="Service/Service.csproj" Id="8f0992a2-3150-44ed-b29b-1fb7bd9bd799" />
   <Project Path="TelegramChannelScanner/TelegramChannelScanner.csproj" />
 </Solution>
